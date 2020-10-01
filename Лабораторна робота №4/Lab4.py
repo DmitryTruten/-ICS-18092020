@@ -47,4 +47,3 @@ data8 = Data("22.11.2016", 200, 40, 40, 50)
 data9 = Data("22.11.2016", 300, 40, 40, 60)
 datas = [data1, data2, data3, data4, data5, data6, data7, data8, data9]
 
-print_data(data2)
