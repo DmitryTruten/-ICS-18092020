@@ -5,4 +5,3 @@ Nastya, 12
 Dmytro, 12
 Roman, 10
 Ivan, 12
-Pavlo, 12
