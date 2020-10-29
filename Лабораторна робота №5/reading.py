@@ -7,4 +7,4 @@ fd = open(filename, "r")
 reader = csv.reader(fd, delimiter="\t")
 for row in reader:     
     print(row)
-fd.close()
+fd.close() 
